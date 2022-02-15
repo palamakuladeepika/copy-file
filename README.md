@@ -24,7 +24,7 @@ Write the value of 'i'in the second file by following method.SecondfileName.writ
 Stop
 
 ## PROGRAM:
-```
+````
 #Develpoed By:Manoj Guna Sundar Tella
 #Reference No:21003796
 with open('first.txt','r') as firstfile, open('second.txt','a') as secondfile:
@@ -33,7 +33,7 @@ with open('first.txt','r') as firstfile, open('second.txt','a') as secondfile:
                
         # append content to second file
              secondfile.write(line)
-```
+````
 ### OUTPUT:
 ![Github logo](copy.png)
 ![Github logo](copy1.png)

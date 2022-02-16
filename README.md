@@ -35,9 +35,9 @@ with open('first.txt','r') as firstfile, open('second.txt','a') as secondfile:
              secondfile.write(line)
 ````
 ### OUTPUT:
-![Github logo](copy.png)
-![Github logo](copy1.png)
-![Github logo](copy2.png)
+![Github logo](k1.png)
+![Github logo](k2.png)
+![Github logo](k3.png)
 
 
 

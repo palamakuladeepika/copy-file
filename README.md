@@ -25,8 +25,7 @@ Stop
 
 ## PROGRAM:
 ````
-#Develpoed By:P.SYAM TEJ
-#Reference No:21002938
+
 with open('first.txt','r') as firstfile, open('second.txt','a') as secondfile:
        # read content from first file
     for line in firstfile:
